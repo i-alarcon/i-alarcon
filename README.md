@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @i-alarcon
-- 👀 I’m interested in Data science, Mobile development and Backend development
-- 🌱 I’m currently learning Angular, Kotlin and Django
+- 👀 I’m interested in Data science, Databases administration and DevOps
+- 🌱 I’m currently learning AWS, Advanced databases administration and improving my Unix/Linux skills
 - 💞️ I’m looking to collaborate on Open source projects and with opportunities to improve my skills
 - 📫 How to reach me iris.alarconp@gmail.com
 
